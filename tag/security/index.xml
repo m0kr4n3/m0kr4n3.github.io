@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security | Mokrane&#39;s Portfolio</title>
+    <link>https://mokrane.me/tag/security/</link>
+      <atom:link href="https://mokrane.me/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>security</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mokrane.me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>security</title>
+      <link>https://mokrane.me/tag/security/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic IP Getter</title>
+      <link>https://mokrane.me/project/dynamic_ip_getter/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mokrane.me/project/dynamic_ip_getter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Injection</title>
+      <link>https://mokrane.me/project/sql_injection/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mokrane.me/project/sql_injection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
